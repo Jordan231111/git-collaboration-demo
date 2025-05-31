@@ -21,7 +21,7 @@ public class HelloWorld {
         HelloWorld hello = new HelloWorld();
         hello.printMessage();
         
-        hello.setMessage("Welcome to Git collaboration!");
+        hello.setMessage("Welcome to Git collaboration!!!!!");
         hello.printMessage();
     }
 }
