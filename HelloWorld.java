@@ -2,7 +2,7 @@ public class HelloWorld {
     private String message;
     
     public HelloWorld() {
-        this.message = "Hello, World!";
+        this.message = "Hello, World test!";
     }
     
     public void setMessage(String newMessage) {
